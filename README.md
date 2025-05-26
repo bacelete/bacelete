@@ -6,7 +6,7 @@
 
 <br>
 <a href="https://github.com/bacelete/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bacelete&show_icons=true&theme=dark" />
+  
 </a>
 <br><br>
 <a href="https://github.com/bacelete/convoychat">
