@@ -1,7 +1,6 @@
 ## Olá, me chamo Arthur Bacelete e...
 
 - 💻 Atualmente estou cursando Engenharia de Software pela PUC-MG
-- 📕 Aprendendo PHP, React, Laravel e Node.js!
 - 🔍 Busco oportunidades na área de desenvolvimento
 
 <br>
