@@ -4,14 +4,17 @@
 - 🔍 Busco oportunidades na área de desenvolvimento
 
 <br>
-<a href="https://github.com/bacelete/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bacelete&show_icons=true&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://github.com/bacelete/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bacelete&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/bacelete/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelete&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
 <img src="https://raw.githubusercontent.com/bacelete/bacelete/output/snake.svg" alt="Snake animation" />
-<br><br>
-<a href="https://github.com/bacelete/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelete&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
